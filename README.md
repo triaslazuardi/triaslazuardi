@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/xT4uQF7h39mlsF5czK/giphy.gif" width="100%">
 
-### Hi there, I'm <a href="https://wisuja.github.io" target="_blank">William</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https://triaslazuardi.github.io" target="_blank">Trias</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=wisuja.wisuja)
 
